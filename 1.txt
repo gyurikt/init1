@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kkk
+=======
+ddd
+>>>>>>> new_feature
